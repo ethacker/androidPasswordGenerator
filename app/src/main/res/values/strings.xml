@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">In Class 04</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="numbers">Numbers</string>
+    <string name="uppercase">Uppercase Letters</string>
+    <string name="lowercase">Lowercase Letters</string>
+    <string name="special_id">Special Characters</string>
+    <string name="gp_thread">Generate Password (Thread)</string>
+    <string name="gp_asynctask">Generate Password (AsyncTask)</string>
+    <string name="spinner_hint">Select Password Length</string>
+    <string-array name="password_length">
+        <item>8-12</item>
+        <item>13-17</item>
+        <item>18-22</item>
+    </string-array>
+</resources>
